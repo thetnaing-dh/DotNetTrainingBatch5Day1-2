@@ -1,4 +1,4 @@
-
+﻿
 # Blog Data Reader - C# Console Application
 
 A simple C# console application that demonstrates database connectivity using [ADO.NET](https://ado.net/) to fetch and display blog data from a SQL Server database.
