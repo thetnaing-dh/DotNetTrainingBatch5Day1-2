@@ -3,6 +3,10 @@
 
 A simple C# console application that demonstrates database connectivity using [ADO.NET](https://ado.net/) to fetch and display blog data from a SQL Server database.
 
+## Source Code
+![CoverImage](https://github.com/thetnaing-dh/DotNetTrainingBatch5Day1-2/blob/master/SourceCode.png)
+
+## Result
 ![CoverImage](https://github.com/thetnaing-dh/DotNetTrainingBatch5Day1-2/blob/master/ScreenShot.png)
 
 ## Features
