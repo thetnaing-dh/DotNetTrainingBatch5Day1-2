@@ -37,7 +37,7 @@ A simple C# console application that demonstrates database connectivity using [A
 
 1.  Clone the repository:
 
-        git clone <repository-url>
+        git clone https://github.com/thetnaing-dh/DotNetTrainingBatch5Day1-2
         cd blog-data-reader
 
 3.  Restore the database:
